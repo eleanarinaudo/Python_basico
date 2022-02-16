@@ -29,7 +29,7 @@
 
     - Ir a un directorio
     ```bash
-    cd <nombre_carpeta>
+    cd <nombre_directorio>
     ```
 
 - Ver los archivos dentro de ese directorio
@@ -39,11 +39,11 @@
 
 - Crear directorio
     ```bash
-    mkdir  <nombre_carpeta>
+    mkdir  <nombre_directorio>
     ```
 - Crear archivo
     ```bash
-    touch <nombre_archivo.firnar>
+    touch <nombre_archivo.format>
     ```
 ## Operadores aritméticos
 
